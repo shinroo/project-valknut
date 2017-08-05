@@ -44,7 +44,7 @@ We limited our investigation to the defined case studies and historical english 
 ### Vietnam War
 
 | Start Date | 1 November 1955 |
-| Data Collection Period | 1 November 1953 - 1 November 1955 |
+| Data Collection Period | 1 November 1953 - 30 September 1955 |
 | Beligerents | North Vietnam, South Vietnam, China, Soviet Union, United States of America |
 
 ![vietnamwar](http://jackietywls.weebly.com/uploads/1/7/2/7/17279018/7394841_orig.png "Vietnam War")
@@ -52,7 +52,7 @@ We limited our investigation to the defined case studies and historical english 
 ### Yemeni Civil War
 
 | Start Date | 19 March 2015 |
-| Data Collection Period | 19 March 2013 - 19 March 2015 |
+| Data Collection Period | 19 March 2013 - 18 March 2015 |
 | Beligerents | Saudi Arabia, Iran, Houthi Rebels (Supreme Political Council), Hadi Government of Yemen |
 
 ![yemenwar](http://static1.businessinsider.com/image/551575796bb3f7470c8e52ec-1190-625/these-maps-show-what-could-happen-next-in-yemen--and-how-it-could-impact-global-politics.jpg "Yemeni Civil War")
@@ -60,7 +60,7 @@ We limited our investigation to the defined case studies and historical english 
 ### Korean War
 
 | Start Date | 25 June 1950 |
-| Data Collection Period | 25 June 1948 - 25 June 1950 |
+| Data Collection Period | 25 June 1948 - 24 June 1950 |
 | Beligerents | China, United States of America (+ UN Allies), Soviet Union, South Korea, North Korea |
 
 ![koreanwar](https://kollathdesign.com/wp-content/uploads/2017/01/map_korean_war-800x389.png "Korean War")
@@ -68,7 +68,7 @@ We limited our investigation to the defined case studies and historical english 
 ### Soviet-Afghan War
 
 | Start Date | 24 December 1979 |
-| Data Collection Period | 24 December 1977 - 24 December 1979 |
+| Data Collection Period | 24 December 1977 - 23 December 1979 |
 | Beligerents | Soviet Union, Democratic Republic of Afghanistan, Mujahideen, United States of America (CIA) |
 
 ![afghanwar](https://s-media-cache-ak0.pinimg.com/736x/47/7d/51/477d51b27a84f9515154b1cf7c7fff71--soviet-union-afghanistan.jpg "Soviet-Afghan War")
@@ -76,7 +76,7 @@ We limited our investigation to the defined case studies and historical english 
 ### Mozambican Civil War
 
 | Start Date | 30 May 1977 |
-| Data Collection Period | 30 May 1975 - 30 May 1977 |
+| Data Collection Period | 30 May 1975 - 29 May 1977 |
 | Beligerents | Front for Liberation of Mozambique (FRELIMO), Mozambique Resistance Movement (RENAMO), Apartheid South Africa, Rhodesia, Zimbabwe, Tanzania |
 
 ![mozwar](https://proverbsafricanliterature.files.wordpress.com/2012/01/mozambique.gif "Mozambican Civil War")
@@ -117,9 +117,8 @@ Our dataset can be found here, the directory tree is laid out as follows:
 
 ```
 	Dataset/
-		Conflict/
-			NewsSource/
-				NewsItem
+		CountryName/
+			NewsItem
 ```
 
 ## Data Analysis
