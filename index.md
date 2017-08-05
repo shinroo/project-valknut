@@ -71,7 +71,7 @@ We limited our investigation to the defined case studies and historical english 
 | Data Collection Period | 24 December 1977 - 24 December 1979 |
 | Beligerents | Soviet Union, Democratic Republic of Afghanistan, Mujahideen, United States of America (CIA) |
 
-![afghanwar](https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War#/media/File:SovietInvasionAfghanistanMap.png "Soviet-Afghan War")
+![afghanwar](https://s-media-cache-ak0.pinimg.com/736x/47/7d/51/477d51b27a84f9515154b1cf7c7fff71--soviet-union-afghanistan.jpg "Soviet-Afghan War")
 
 ### Mozambican Civil War
 
@@ -79,7 +79,19 @@ We limited our investigation to the defined case studies and historical english 
 | Data Collection Period | 30 May 1975 - 30 May 1977 |
 | Beligerents | Front for Liberation of Mozambique (FRELIMO), Mozambique Resistance Movement (RENAMO), Apartheid South Africa, Rhodesia, Zimbabwe, Tanzania |
 
+![mozwar](https://proverbsafricanliterature.files.wordpress.com/2012/01/mozambique.gif "Mozambican Civil War")
+
 ## Media Variables Investigated
+
+We investigated the media variables outlined below for articles in 2 year periods prior to the start of each conflict, with the following sources
+ 
+- New York Times
+- Reuters
+- Agency France Press
+- BBC
+- AP
+
+These sources were selected because they are historically significant sources of news and information, all of which were established before the begin of the first case study.
 
 ### Sentiment Analysis
 
@@ -95,9 +107,20 @@ From this we will retrieve numerical values for the positivity/negativity (polar
 
 ### Frequency News Articles Containing Specific Keywords
 
+Trends were analysed for the following keywords:
+
+UN, resolution, intervention, sanction, negotiation, escalation, warning, victim, damages, killed, violence, aggression, confrontation, rivalry, tension, fear, attack, terror, war, fight, forces, air, naval, troops, invasion, armed, conflict
+
 ## Dataset
 
-Our dataset can be found here:
+Our dataset can be found here, the directory tree is laid out as follows:
+
+```
+	Dataset/
+		Conflict/
+			NewsSource/
+				NewsItem
+```
 
 ## Data Analysis
 
