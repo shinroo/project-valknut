@@ -32,7 +32,7 @@ At the time of undertaking this project, the likelihood of a war between South K
 
 We proceeded in the following manner:
 
-1. Define Case Studies of "Similar Conflicts" to be investigate
+1. Define Case Studies of "Similar Conflicts" to be investigated
 2. Pick Media Variables to Investigate
 3. Collect Data
 4. Analyse Data with Python 
@@ -57,25 +57,7 @@ We limited our investigation to the defined case studies and historical english 
 
 ![koreanwar](https://kollathdesign.com/wp-content/uploads/2017/01/map_korean_war-800x389.png "Korean War")
 
-### Soviet-Afghan War
-
-| Start Date | 24 December 1979 |
-| Data Collection Period | 24 December 1977 - 23 December 1979 |
-| Beligerents | Soviet Union, Democratic Republic of Afghanistan, Mujahideen, United States of America (CIA) |
-
-![afghanwar](https://s-media-cache-ak0.pinimg.com/736x/47/7d/51/477d51b27a84f9515154b1cf7c7fff71--soviet-union-afghanistan.jpg "Soviet-Afghan War")
-
 ## Media Variables Investigated
-
-We investigated the media variables outlined below for articles in 2 year periods prior to the start of each conflict, with the following sources
- 
-- New York Times
-- Reuters
-- Agency France Press
-- BBC
-- AP
-
-These sources were selected because they are historically significant sources of news and information, all of which were established before the begin of the first case study.
 
 ### Sentiment Analysis
 
@@ -89,7 +71,7 @@ From this we will retrieve numerical values for the positivity/negativity (polar
 
 > The polarity score is a float within the range \[-1.0, 1.0\]. The subjectivity is a float within the range \[0.0, 1.0\] where 0.0 is very objective and 1.0 is very subjective.
 
-### Frequency News Articles Containing Specific Keywords
+### Keyword Frequency
 
 Trends were analysed for the following keywords:
 
@@ -102,8 +84,10 @@ Our dataset can be found here, the directory tree is laid out as follows:
 ```
 	Dataset/
 		CountryName/
-			NewsItem
+			NewsItems
 ```
+
+The data was collected from the [New York State Historical Newspapers archive](http://nyshistoricnewspapers.org/).
 
 ## Data Analysis
 
@@ -121,4 +105,3 @@ In Conclusion
 
 - Robert Focke, B.Sc. Computer Engineering Student
 - Jaehyuk Kim, B.A. Political and Social Sciences Student
-- Jaehyun Kim, High School Student
