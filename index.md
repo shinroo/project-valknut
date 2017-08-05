@@ -47,6 +47,8 @@ We limited our investigation to the defined case studies and historical english 
 | Data Collection Period | 1 November 1953 - 1 November 1955 |
 | Beligerents | North Vietnam, South Vietnam, China, Soviet Union, United States of America |
 
+![vietnamwar](http://jackietywls.weebly.com/uploads/1/7/2/7/17279018/7394841_orig.png "Vietnam War")
+
 ### Yemeni Civil War
 
 | Start Date | 19 March 2015 |
