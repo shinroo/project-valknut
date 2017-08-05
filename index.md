@@ -39,7 +39,22 @@ We proceeded in the following manner:
 
 ## Case Studies
 
-We picked the following countries to investigate:
+### Vietnam War
+
+| Start Date | 1 November 1955 |
+| Data Collection Period | 1 November 1945 - 1 November 1955 |
+| Beligerents | North Vietnam, South Vietnam, China, Soviet Union, United States of America |
+
+### Yemeni Civil War
+
+- Start Date
+- Beligerents
+
+### Korean War
+
+### Soviet-Afghan War
+
+### Mozambican Civil War
 
 ## Media Variables
 
