@@ -81,7 +81,9 @@ We will make use of the TextBlob python library to provide sentiment analysis on
 
 From the pypi entry for [TextBlob](https://pypi.python.org/pypi/textblob)
 
-From this we will retrieve numerical values for the positivity/negativity and subjectivity/objectivity of the news articles we find.
+From this we will retrieve numerical values for the positivity/negativity (polarity) and subjectivity/objectivity (subjectivity) of the news articles we find. TextBlob handles these values as follows:
+
+> The polarity score is a float within the range \[-1.0, 1.0\]. The subjectivity is a float within the range \[0.0, 1.0\] where 0.0 is very objective and 1.0 is very subjective.
 
 ### Frequency of Keywords
 
