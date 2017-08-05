@@ -55,6 +55,8 @@ We limited our investigation to the defined case studies and historical english 
 | Data Collection Period | 19 March 2013 - 19 March 2015 |
 | Beligerents | Saudi Arabia, Iran, Houthi Rebels (Supreme Political Council), Hadi Government of Yemen |
 
+![yemenwar](http://static1.businessinsider.com/image/551575796bb3f7470c8e52ec-1190-625/these-maps-show-what-could-happen-next-in-yemen--and-how-it-could-impact-global-politics.jpg "Yemeni Civil War")
+
 ### Korean War
 
 | Start Date | 25 June 1950 |
