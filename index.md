@@ -71,7 +71,7 @@ We limited our investigation to the defined case studies and historical english 
 | Data Collection Period | 30 May 1975 - 30 May 1977 |
 | Beligerents | Front for Liberation of Mozambique (FRELIMO), Mozambique Resistance Movement (RENAMO), Apartheid South Africa, Rhodesia, Zimbabwe, Tanzania |
 
-## Media Variables
+## Media Variables Investigated
 
 ### Sentiment Analysis
 
@@ -85,7 +85,7 @@ From this we will retrieve numerical values for the positivity/negativity (polar
 
 > The polarity score is a float within the range \[-1.0, 1.0\]. The subjectivity is a float within the range \[0.0, 1.0\] where 0.0 is very objective and 1.0 is very subjective.
 
-### Frequency of Keywords
+### Frequency News Articles Containing Specific Keywords
 
 ## Dataset
 
@@ -102,3 +102,9 @@ Our findings were as follows:
 # Interpretation
 
 In Conclusion
+
+# Contributors
+
+- Robert Focke, B.Sc. Computer Engineering Student
+- Jaehyuk Kim, B.A. Political and Social Sciences Student
+- Jaehyun Kim, High School Student
