@@ -42,19 +42,32 @@ We proceeded in the following manner:
 ### Vietnam War
 
 | Start Date | 1 November 1955 |
-| Data Collection Period | 1 November 1945 - 1 November 1955 |
+| Data Collection Period | 1 November 1953 - 1 November 1955 |
 | Beligerents | North Vietnam, South Vietnam, China, Soviet Union, United States of America |
 
 ### Yemeni Civil War
 
-- Start Date
-- Beligerents
+| Start Date | 19 March 2015 |
+| Data Collection Period | 19 March 2013 - 19 March 2015 |
+| Beligerents | Saudi Arabia, Iran, Houthi Rebels (Supreme Political Council), Hadi Government of Yemen |
 
 ### Korean War
 
+| Start Date | 25 June 1950 |
+| Data Collection Period | 25 June 1948 - 25 June 1950 |
+| Beligerents | China, United States of America (+ UN Allies), Soviet Union, South Korea, North Korea |
+
 ### Soviet-Afghan War
 
+| Start Date | 24 December 1979 |
+| Data Collection Period | 24 December 1977 - 24 December 1979 |
+| Beligerents | Soviet Union, Democratic Republic of Afghanistan, Mujahideen, United States of America (CIA) |
+
 ### Mozambican Civil War
+
+| Start Date | 30 May 1977 |
+| Data Collection Period | 30 May 1975 - 30 May 1977 |
+| Beligerents | Front for Liberation of Mozambique (FRELIMO), Mozambique Resistance Movement (RENAMO), Apartheid South Africa, Rhodesia, Zimbabwe, Tanzania |
 
 ## Media Variables
 
