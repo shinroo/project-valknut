@@ -63,11 +63,15 @@ We limited our investigation to the defined case studies and historical english 
 | Data Collection Period | 25 June 1948 - 25 June 1950 |
 | Beligerents | China, United States of America (+ UN Allies), Soviet Union, South Korea, North Korea |
 
+![koreanwar](https://kollathdesign.com/wp-content/uploads/2017/01/map_korean_war-800x389.png "Korean War")
+
 ### Soviet-Afghan War
 
 | Start Date | 24 December 1979 |
 | Data Collection Period | 24 December 1977 - 24 December 1979 |
 | Beligerents | Soviet Union, Democratic Republic of Afghanistan, Mujahideen, United States of America (CIA) |
+
+![koreanwar](https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War#/media/File:SovietInvasionAfghanistanMap.png "Korean War")
 
 ### Mozambican Civil War
 
