@@ -37,6 +37,8 @@ We proceeded in the following manner:
 3. Collect Data
 4. Analyse Data with Python 
 
+We limited our investigation to the defined case studies and historical english sources of news.
+
 ## Case Studies
 
 ### Vietnam War
@@ -71,7 +73,17 @@ We proceeded in the following manner:
 
 ## Media Variables
 
-The following media trends will be analysed:
+### Sentiment Analysis
+
+We will make use of the TextBlob python library to provide sentiment analysis on the media sources we find.
+
+> TextBlob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
+
+From the pypi entry for [TextBlob](https://pypi.python.org/pypi/textblob)
+
+From this we will retrieve numerical values for the positivity/negativity and subjectivity/objectivity of the news articles we find.
+
+### Frequency of Keywords
 
 ## Dataset
 
