@@ -49,14 +49,6 @@ We limited our investigation to the defined case studies and historical english 
 
 ![vietnamwar](http://jackietywls.weebly.com/uploads/1/7/2/7/17279018/7394841_orig.png "Vietnam War")
 
-### Yemeni Civil War
-
-| Start Date | 19 March 2015 |
-| Data Collection Period | 19 March 2013 - 18 March 2015 |
-| Beligerents | Saudi Arabia, Iran, Houthi Rebels (Supreme Political Council), Hadi Government of Yemen |
-
-![yemenwar](http://static1.businessinsider.com/image/551575796bb3f7470c8e52ec-1190-625/these-maps-show-what-could-happen-next-in-yemen--and-how-it-could-impact-global-politics.jpg "Yemeni Civil War")
-
 ### Korean War
 
 | Start Date | 25 June 1950 |
@@ -72,14 +64,6 @@ We limited our investigation to the defined case studies and historical english 
 | Beligerents | Soviet Union, Democratic Republic of Afghanistan, Mujahideen, United States of America (CIA) |
 
 ![afghanwar](https://s-media-cache-ak0.pinimg.com/736x/47/7d/51/477d51b27a84f9515154b1cf7c7fff71--soviet-union-afghanistan.jpg "Soviet-Afghan War")
-
-### Mozambican Civil War
-
-| Start Date | 30 May 1977 |
-| Data Collection Period | 30 May 1975 - 29 May 1977 |
-| Beligerents | Front for Liberation of Mozambique (FRELIMO), Mozambique Resistance Movement (RENAMO), Apartheid South Africa, Rhodesia, Zimbabwe, Tanzania |
-
-![mozwar](https://proverbsafricanliterature.files.wordpress.com/2012/01/mozambique.gif "Mozambican Civil War")
 
 ## Media Variables Investigated
 
