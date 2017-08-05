@@ -44,7 +44,7 @@ We limited our investigation to the defined case studies and historical english 
 ### Vietnam War
 
 | Start Date | 1 November 1955 |
-| Data Collection Period | 1 November 1953 - 30 September 1955 |
+| Data Collection Period | 1 November 1953 - 31 October 1955 |
 | Beligerents | North Vietnam, South Vietnam, China, Soviet Union, United States of America |
 
 ![vietnamwar](http://jackietywls.weebly.com/uploads/1/7/2/7/17279018/7394841_orig.png "Vietnam War")
